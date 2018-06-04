@@ -3,6 +3,7 @@
 
 int main()
 {
-#put print here
+printf("ini kau punyalah")
+
 	return 0;
 }
